@@ -1,2 +1,3 @@
 chaoter 1
--we meet nick, tom, daisy and jorday
+-we meet nick, tom, daisy and Jorday
+- call from Tom
