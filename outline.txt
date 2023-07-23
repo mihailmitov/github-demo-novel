@@ -18,3 +18,7 @@ git branch -d `name of branch`
 git branch -v -> more infromation about the branches (hash and message of last commit)
 
 git commit -a -m 'message'
+
+
+
+fast-forward merge -> applies changes from `merge from` branch without conflict (catches up on changes)
