@@ -9,3 +9,12 @@ chaoter 1
 move outline and split it
 
 chapter 2 starts 12
+
+git switch -c `name of branch`
+
+
+git branch -m `new name of branch`
+git branch -d `name of branch`
+git branch -v -> more infromation about the branches (hash and message of last commit)
+
+git commit -a -m 'message'
